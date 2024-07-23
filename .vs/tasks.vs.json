@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarea-Archivo3",
+      "appliesTo": "Archivo3.txt",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "tarea-Archivo",
+      "appliesTo": "Archivo.txt",
+      "type": "launch"
+    }
+  ]
+}
